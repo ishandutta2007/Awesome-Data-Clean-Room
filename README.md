@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
-  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Data-Clean-Room"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Data-Clean-Room?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Data-Clean-Room/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Data-Clean-Room?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Data-Clean-Room/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Data-Clean-Room?color=blue" alt="License"/></a>
@@ -113,19 +112,19 @@ Contributions are actively welcomed! To submit new data clean room platforms or 
 
 ---
 
-## 📊 Star History 📈
-
-[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Data-Clean-Room&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Data-Clean-Room&type=date&legend=top-left)
-
----
-
 ## 🤝 Support & Sponsorship 💖
 
 If this Data Clean Room resource helps your privacy engineering team or business research:
 
 - ⭐ **Star** this repository to help others discover it!
 - 🔀 **Fork** and share with data collaboration teams, privacy engineers, and open-source researchers.
-- ☕ **Sponsor**: Support open-source curation via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+- ☕ **Sponsor & Buy Me a Coffee**: Thank you for your support! You can sponsor ongoing open-source curation via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📊 Star History 📈
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Data-Clean-Room&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Data-Clean-Room&type=date&legend=top-left)
 
 ---
 
