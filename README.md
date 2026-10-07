@@ -70,7 +70,7 @@ The global Data Clean Room market is estimated at **$4.8 Billion (2026)** and pr
 
 ## 🔓 Open-Source GitHub Clean Room & PET Projects 🌐
 
-*Sorted by GitHub Star Count (Descending)* 🌟
+*Sorted by GitHub Stars_Count (Descending)* 🌟
 
 - **[Cleanlab](https://github.com/cleanlab/cleanlab)** [![Stars](https://img.shields.io/github/stars/cleanlab/cleanlab?style=social&color=white)](https://github.com/cleanlab/cleanlab/stargazers) 🧪  
   **Standard data-centric AI package for data quality, automated curation, and machine learning with messy real-world data and labels**, AGPL-3.0 licensed. Ensures high clean room input data integrity through machine learning error detection and automated dataset scrubbing.
